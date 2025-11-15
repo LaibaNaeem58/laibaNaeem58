@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/cc/41/97/cc41970c4ea2a4774d73887b854f87d1.gif" width="100%" alt="Background GIF">
+  <img src="https://th.bing.com/th?id=OIF.v9No0wtL4kAB3fvcvKcD%2fw&cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="100%" alt="Background GIF">
 </p>
 
 ## 👋 Hi, I'm **Laiba Naeem**
