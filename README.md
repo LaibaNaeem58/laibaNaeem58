@@ -1,6 +1,6 @@
 <!-- Background Banner -->
 <p align="center">
-  <img src="C:\Users\falcon\Downloads" width="100%" alt="images.JPG ">
+  <img align="right alt ="coding" width="400" scr="https://share.google/images/RnhxRhLzNQ4geAOl6">
 </p>
 
 ## 👋 Hi, I'm **Laiba Naeem**
