@@ -1,6 +1,5 @@
-<!-- Background Banner -->
 <p align="center">
-  <img align="right alt ="coding" width="400" scr="https://share.google/images/RnhxRhLzNQ4geAOl6">
+  <img src="https://raw.githubusercontent.com/username/repo/main/banner.jpg" width="100%" alt="Banner Image">
 </p>
 
 ## 👋 Hi, I'm **Laiba Naeem**
