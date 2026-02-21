@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://th.bing.com/th?id=OIF.v9No0wtL4kAB3fvcvKcD%2fw&cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="100%" alt="Background GIF">
-</p>
+
 
 ## 👋 Hi, I'm **Laiba Naeem**
 
