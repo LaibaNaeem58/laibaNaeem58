@@ -1,13 +1,13 @@
 
 
-## 👋 Hi, I'm **Laiba Naeem**
+##  Hi, I'm **Laiba Naeem**
 
 An enthusiastic Computer Science student passionate about Web Development, Software Engineering, and modern technologies.  
 I love building clean, user-friendly interfaces and learning new tools every day.
 
 ---
 
-## 🎓 **Education**
+##  **Education**
 
 ### **BS Computer Science**
 **KICSIT** — *2023 – Present*  
@@ -20,7 +20,7 @@ I love building clean, user-friendly interfaces and learning new tools every day
 
 ---
 
-## 💡 **Skills**
+##  **Skills**
 
 ### **Programming Languages**
 - C  
