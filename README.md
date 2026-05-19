@@ -33,7 +33,10 @@ I love building clean, user-friendly interfaces and learning new tools every day
 - CSS  
 
 ### **Databases**
-- MongoDB  
+- MongoDB
+- mysql
+- wammp
+- xampp
 
 ### **Other Skills**
 - Artificial Intelligence (AI) basics  
